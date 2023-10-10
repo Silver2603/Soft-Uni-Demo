@@ -9,7 +9,7 @@ c = b - a
 print(c)
 
 
-
+ti sii gei
 
 
 dadada
