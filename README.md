@@ -1,6 +1,9 @@
 # Soft-Uni-Demo
 a = 23
-print(a)
+b = 33
+c = b - a 
+
+print(c)
 
 
 
